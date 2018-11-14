@@ -1,0 +1,32 @@
+body, html {
+    height: 100%;
+    background-image:url("img/blackVelvet2.jpg");
+    background-size: cover;
+    display: grid;
+}
+
+section{
+    margin:auto;
+   
+}
+.carousel-inner{
+    height: 100%;
+}
+.carousel, .item,.active{
+    height: 100%;
+    
+}
+img{
+    width: 96vw;
+    max-width: 145vh;
+    height: auto;
+    max-height: 96vh;
+    border-radius: 25px;
+
+}
+
+.container-fluid{
+    margin:auto;
+    
+    
+}
